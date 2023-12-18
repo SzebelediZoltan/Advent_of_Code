@@ -1,7 +1,0 @@
-H:\Iskola\Daniel_tanar\Advent\day1\day1_Csharp\day1_Csharp\bin\Debug\day1_Csharp.exe.config
-H:\Iskola\Daniel_tanar\Advent\day1\day1_Csharp\day1_Csharp\bin\Debug\day1_Csharp.exe
-H:\Iskola\Daniel_tanar\Advent\day1\day1_Csharp\day1_Csharp\bin\Debug\day1_Csharp.pdb
-H:\Iskola\Daniel_tanar\Advent\day1\day1_Csharp\day1_Csharp\obj\Debug\day1_Csharp.csproj.AssemblyReference.cache
-H:\Iskola\Daniel_tanar\Advent\day1\day1_Csharp\day1_Csharp\obj\Debug\day1_Csharp.csproj.CoreCompileInputs.cache
-H:\Iskola\Daniel_tanar\Advent\day1\day1_Csharp\day1_Csharp\obj\Debug\day1_Csharp.exe
-H:\Iskola\Daniel_tanar\Advent\day1\day1_Csharp\day1_Csharp\obj\Debug\day1_Csharp.pdb
